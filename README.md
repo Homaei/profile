@@ -1,7 +1,7 @@
 Hi 👋 My name is Hubert Homaei
 =======================
 
-Digital Twins / IoT / Cyber security
+Digital Twins / IoT / Cybersecurity
 ------------------------------------
 
 IoT, BigData, WSN, and Digital Twins are my research interests.
